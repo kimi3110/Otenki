@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Otenki</string>
+    <string name="attention">▼都市名を入力して下さい　</string>
+    <string name="hint">　Osaka</string>
+    <string name="btnOtenki">🔍Otenki</string>
+    <string name="illustration_sun01">illustration_sun01</string>
+    <string name="time_now">2021/05/19 午前10:23 ▷現在</string>
+    <string name="research">再検索</string>
+    <string name="cityName_country">東京都  JP</string>
+    <string name="description">澄んだ空</string>
+    <string name="main">sunny</string>
+    <string name="temp">25°C</string>
+    <string name="feels_like">体感温度 : 26℃</string>
+    <string name="pressure">気圧</string>
+    <string name="pressure_value">1007hPa</string>
+    <string name="humidity">湿度</string>
+    <string name="humidity_value">58%</string>
+    <string name="wind_speed">風速</string>
+    <string name="wind_value"> 10.3 km/h </string>
+    <string name="sunrise">日の出</string>
+    <string name="sunrise_time">午前5:33</string>
+    <string name="sunset">日の入</string>
+    <string name="sunset_time">午後5:57</string>
+<!--    <string name="error_msg">インターネット接続を確認してください</string>-->
+    <string name="error_msg">都市名が違います。英語かローマ字で入力して下さい。</string>
+</resources>
